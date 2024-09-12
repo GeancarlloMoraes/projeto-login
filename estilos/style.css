@@ -31,7 +31,7 @@ main {
     left: 50%;
     transform: translate(-50%, -50%);
     background-color: white;
-    width: 250px;
+    width: 270px;
     height: 500px;
     border-radius: 20px;
     overflow: hidden;
@@ -63,3 +63,4 @@ main {
 #formulario > p {
     font-size: 0.8em;
 }
+
