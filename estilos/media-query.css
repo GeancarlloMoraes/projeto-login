@@ -22,6 +22,7 @@ Grandes telas: acima de 1200px
     
     #login {
         width: 80vw;
+        height: 300px;
     }
 
     #login > #imagem {
@@ -37,6 +38,7 @@ Grandes telas: acima de 1200px
 
 #formulario > p {
     font-size: 1em;
+    margin: 10px 0px;
 }
 }
 
@@ -48,6 +50,7 @@ Grandes telas: acima de 1200px
 
     #login {
         width: 950px;
+        height: 350px;
     }
 
     #login > #imagem {
@@ -61,14 +64,16 @@ Grandes telas: acima de 1200px
         width: 50%;
     }
 
+    #formulario > h1 {
+        font-size: 2em ;
+    }
     
-#formulario > p {
-    font-size: 1.2em;
-}
+    #formulario > p {
+        font-size: 1em;
+        margin: 20px 0px;
+    }
 
-#formulario > h1 {
-    font-size: 2em ;
-}
+
 
 }
 
